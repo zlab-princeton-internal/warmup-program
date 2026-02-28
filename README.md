@@ -77,6 +77,12 @@ Reports can be short, but submitting them on time is a firm requirement. If you'
 
 **Submission**: Send your report to [Taiming Lu](mailto:tl0463@princeton.edu) via email.
 
+## What's Next
+
+The warmup program is preparation for joining our research projects. When you feel ready, let us know — we will assign you a short intensive research task (7–10 days). Based on your performance, we'll discuss next steps for getting involved in ongoing research.
+
+There is no fixed timeline. Some people may be ready after a few weeks, others may take longer. Focus on building your skills and go at your own pace.
+
 ## Questions
 
 For any questions about the program, cluster setup, or repo selection, contact [Taiming Lu](mailto:tl0463@princeton.edu) via email or Slack.
