@@ -24,7 +24,7 @@ Once your account is approved, verify that you can SSH into the cluster and subm
 
 Choose any of the following repos to explore. You are free to pick whichever ones interest you. Each report should focus on one repo. **For your first report, we recommend starting with modded-nanogpt** — it's self-contained, runs fast, and gives you a good feel for the workflow.
 
-Not all repos require the Adroit cluster — some can run on your own machine (e.g., with a personal GPU or even CPU for smaller experiments). Repos that need LLM API access (like AI-Scientist-v2) can use [Google Cloud's free $300 credit](https://cloud.google.com/free) for API keys.
+Not all repos require the Adroit cluster — some can run on your own machine (e.g., with a personal GPU or even CPU for smaller experiments). Repos that need LLM API access (like AI-Scientist-v2) can use Google Cloud's free $300 credit for API keys.
 
 ### Beginner-friendly
 
