@@ -73,7 +73,7 @@ Submit a short report every **two weeks**, due by **Sunday night**. The two-week
 
 Reports don't need to be long or polished. A few paragraphs is fine. We value honest documentation of your experience over impressive results.
 
-Reports can be short, but submitting them on time is a firm requirement. If you're stuck, ask questions — consistent engagement is what matters most.
+Reports can be short, but **submitting them on time is a firm requirement**. If you're stuck, ask questions — consistent engagement is what matters most.
 
 **Submission**: Send your report to [Taiming Lu](mailto:tl0463@princeton.edu) via email.
 
