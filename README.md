@@ -62,7 +62,7 @@ You will run into issues — that's expected and part of the learning process. W
 
 ## Step 3: Submit Reports
 
-Submit a short report every **two weeks**, due by **Sunday night**. The first report is due **Sunday, March 15**. Each report should cover **one repo** you explored during that period.
+Submit a short report every **two weeks**, due by **Sunday night**. The two-week count starts from the Monday after you join the program. Each report should cover **one repo** you explored during that period.
 
 **Report format** (keep it simple):
 - **Repo**: Which repo you worked on
