@@ -22,33 +22,31 @@ Once your account is approved, verify that you can SSH into the cluster and subm
 
 ## Step 2: Explore Repos
 
-Choose any of the following repos to explore. You are free to pick whichever ones interest you. Each report should focus on one repo. **For your first report, we recommend starting with modded-nanogpt** — it's self-contained, runs fast, and gives you a good feel for the workflow.
+Choose any of the following repos to explore. You are free to pick whichever ones interest you. Each report should focus on one repo. **For your first report, we recommend starting with OpenEvolve** — it requires no GPU, installs with one command, and you can see results in minutes.
 
-Not all repos require the Adroit cluster — some can run on your own machine (e.g., with a personal GPU or even CPU for smaller experiments). Repos that need LLM API access (like AI-Scientist-v2) can use Google Cloud's free $300 credit for API keys.
+Not all repos require the Adroit cluster — some can run on your own machine or only need an API key. For repos that need LLM API access, you can use Google Cloud's free $300 credit. For repos that need GPUs, you don't need the full setup described in their README — you can run smaller-scale experiments with the GPUs available on Adroit (MIG A100, V100).
 
 ### Beginner-friendly
 
-| Repo | Description |
-|------|-------------|
-| [modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) | Speed-optimized GPT training |
-| [Diffusers](https://github.com/huggingface/diffusers) | Diffusion model library |
-| [nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | Simple vLLM implementation |
+| Repo | Description | Requirements |
+|------|-------------|--------------|
+| [OpenEvolve](https://github.com/algorithmicsuperintelligence/openevolve) | LLM-based evolutionary code optimization | API key only, no GPU needed |
+| [Diffusers](https://github.com/huggingface/diffusers) | Diffusion model library | GPU recommended, excellent docs and tutorials |
+| [Terminal-Bench](https://github.com/laude-institute/terminal-bench) | Terminal agent benchmark | Docker + API key, no GPU needed |
 
 ### Intermediate
 
-| Repo | Description |
-|------|-------------|
-| [OpenEvolve](https://github.com/algorithmicsuperintelligence/openevolve) | Evolutionary agent inspired by AlphaEvolve |
-| [Vision-Agents](https://github.com/GetStream/Vision-Agents) | Vision models and agents |
-| [Terminal-Bench](https://github.com/laude-institute/terminal-bench) | Terminal agent benchmark |
+| Repo | Description | Requirements |
+|------|-------------|--------------|
+| [nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | Minimal vLLM implementation (~1200 lines) | GPU required, Linux only |
+| [AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | Automated scientific discovery | GPU + multiple API keys, ~$20/run |
 
 ### Advanced
 
-| Repo | Description |
-|------|-------------|
-| [AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | Automated scientific discovery |
-| [SkyRL](https://github.com/NovaSky-AI/SkyRL) | Scalable reinforcement learning framework |
-| [LLaVA-OneVision-1.5](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) | Multimodal training |
+| Repo | Description | Requirements |
+|------|-------------|--------------|
+| [SkyRL](https://github.com/NovaSky-AI/SkyRL) | Scalable RL for LLM training | Multi-GPU (4+), distributed training |
+| [LLaVA-OneVision-1.5](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) | Multimodal model training | Multi-GPU (8+) for training; single GPU for inference |
 
 **What to do with a repo:**
 - Read the README and understand what the project does
