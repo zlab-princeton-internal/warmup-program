@@ -77,7 +77,7 @@ Reports can be short, but **submitting them on time is a firm requirement**. If 
 
 ## What's Next
 
-The warmup program is preparation for joining our research projects. When you feel ready, let us know — we will assign you a short intensive research task (7–10 days). Based on your performance, we'll discuss next steps for getting involved in ongoing research.
+The warmup program is preparation for joining our research projects. When you feel ready, let us know — we will assign you a short intensive research task (5 days). Based on your performance, we'll discuss next steps for getting involved in ongoing research.
 
 There is no fixed timeline. Some people may be ready after a few weeks, others may take longer. Focus on building your skills and go at your own pace.
 
