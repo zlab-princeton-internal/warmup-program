@@ -1,6 +1,6 @@
 # Warmup Program
 
-Welcome! This program is designed for Princeton undergraduates interested in exploring machine learning research. You will get hands-on experience with state-of-the-art open-source projects and GPU clusters — skills that are essential for ML research.
+Welcome! This program is designed for students interested in exploring machine learning research. You will get hands-on experience with state-of-the-art open-source projects and GPU clusters — skills that are essential for ML research.
 
 ## How It Works
 
@@ -19,6 +19,8 @@ You will use Princeton's **Adroit** cluster for GPU access.
 3. **Recommended GPUs**: Use MIG A100 or V100 on Adroit for development and debugging.
 
 Once your account is approved, verify that you can SSH into the cluster and submit a simple test job.
+
+**If you don't have access to GPUs**, start with repos that don't require one (e.g., OpenEvolve, Terminal-Bench) and work on those first.
 
 ## Step 2: Explore Repos
 
