@@ -28,6 +28,8 @@ Choose any of the following repos to explore. You are free to pick whichever one
 
 Not all repos require the Adroit cluster — some can run on your own machine or only need an API key. For repos that need LLM API access, you can use Google Cloud's free $300 credit. For repos that need GPUs, you don't need the full setup described in their README — you can run smaller-scale experiments with the GPUs available on Adroit (MIG A100, V100).
 
+If you've gone through the repos listed here and want to explore something else, you are welcome to pick other open-source repos that interest you.
+
 ### Beginner-friendly
 
 | Repo | Description | Requirements |
@@ -73,9 +75,9 @@ Submit a short report every **two weeks**, due by **Sunday night**. The two-week
 
 Reports don't need to be long or polished. A few paragraphs is fine. We value honest documentation of your experience over impressive results.
 
-Reports can be short, but **submitting them on time is a firm requirement**. If you're stuck, ask questions — consistent engagement is what matters most.
+Reports can be short, but **submitting them on time is a firm requirement**. Missing a deadline without prior notice will be treated as withdrawing from the program. If you're stuck, ask questions — consistent engagement is what matters most.
 
-**Submission**: Send your report to [Taiming Lu](mailto:tl0463@princeton.edu) via email.
+**Submission**: Upload your report via [this Dropbox File Request](https://www.dropbox.com/request/6JRde6XFg3QFWikRDLrI). Name your file `Firstname_Lastname_Report_MMDD.pdf` (e.g., `John_Smith_Report_0326.pdf`).
 
 ## What's Next
 
