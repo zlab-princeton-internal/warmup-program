@@ -12,7 +12,7 @@ There are no strict requirements on results. We care about your curiosity and en
 
 ## Step 1: Cluster Setup
 
-You will use Princeton's **Adroit** cluster for GPU access.
+**If you are a Princeton undergraduate**, you can use the **Adroit** cluster for GPU access:
 
 1. **Request an account**: Complete the [Adroit registration form](https://forms.rc.princeton.edu/registration/?q=adroit).
 2. **Read the scheduler docs**: Review the [SLURM guide](https://researchcomputing.princeton.edu/support/knowledge-base/slurm#gpus) to understand GPU job submission. You can also refer to our [internal Della cluster guide](https://github.com/zlab-princeton-internal/cluster-guide/tree/main/della) for more detailed SLURM examples (Della and Adroit are different clusters, but the SLURM usage is similar).
@@ -20,7 +20,7 @@ You will use Princeton's **Adroit** cluster for GPU access.
 
 Once your account is approved, verify that you can SSH into the cluster and submit a simple test job.
 
-**If you don't have access to GPUs**, start with repos that don't require one (e.g., OpenEvolve, Terminal-Bench) and work on those first.
+**If you are not a Princeton undergraduate** and don't have access to GPUs, start with repos that don't require one (e.g., OpenEvolve, Terminal-Bench) and work on those first.
 
 ## Step 2: Explore Repos
 
