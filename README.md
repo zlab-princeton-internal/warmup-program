@@ -2,6 +2,8 @@
 
 Welcome! This program is designed for students interested in exploring machine learning research. You will get hands-on experience with state-of-the-art open-source projects and GPU clusters — skills that are essential for ML research.
 
+Familiarity with machine learning, deep learning, and large language models is expected before starting this program.
+
 ## How It Works
 
 1. **Set up your environment**: Get access to the Adroit cluster and configure your development setup.
