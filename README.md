@@ -1,6 +1,6 @@
 # Warmup Program
 
-**Prerequisite**: This program assumes you have taken courses at the level of Intro to ML and Intro to Deep Learning, and are familiar with large language models. If you do not have this background, this program is not the right fit.
+**Prerequisite**: This program assumes you have taken courses (or self-studied) at the level of Intro to ML and Intro to Deep Learning, and are familiar with large language models. If you do not have this background, this program is not the right fit.
 
 Welcome! This program is designed for students interested in exploring machine learning research. You will get hands-on experience with state-of-the-art open-source projects and GPU clusters — skills that are essential for ML research.
 
